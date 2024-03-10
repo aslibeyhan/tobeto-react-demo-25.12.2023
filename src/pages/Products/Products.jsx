@@ -3,8 +3,8 @@ import React, { useEffect, useState } from 'react'
 import ProductCard from '../../components/ProductCard/ProductCard';
 
 
-export default function
-  () {
+export default function Products()
+   {
      const [products, setProducts] = useState([]);
      useEffect(() => {
        axiosGet();
@@ -17,14 +17,6 @@ export default function
     } 
 
   return (
-    // <div classNameName='row'>
-    //     <div classNameName="col-6 bg-success">1</div>
-    //     <div classNameName="col-4 bg-danger">2</div>
-    //     <div classNameName="col-2 bg-primary">3</div>
-    //     <div classNameName="col-4 bg-secondary">4</div>
-    //     <div classNameName="col-4 bg-warning">5</div>
-    //     <div classNameName="col-4 bg-info">6</div>
-    // </div>
 
     <div className='container mt-0 mt-md-5'>
     <div className='row'>

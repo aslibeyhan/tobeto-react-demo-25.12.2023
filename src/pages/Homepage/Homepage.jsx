@@ -1,6 +1,6 @@
 import axios from 'axios';
 import React, { useEffect } from 'react'
-import { Link } from 'react-router-dom'
+
 
 export default function Homepage() {
   //HTTP İsteği 
@@ -14,12 +14,12 @@ export default function Homepage() {
     
   }, []);
 
-  const  awaitFetch = async()=>{
-    let response=await fetch("https://dummyjson.com/products")
-    let json=await response.json();
-    console.log(json);
+  // const  awaitFetch = async()=>{
+  //   let response=await fetch("https://dummyjson.com/products")
+  //   let json=await response.json();
+  //   console.log(json);
      
-  }
+  // }
 
   const axiosGet=async()=>{
     let response=await axios.get("https://dummyjson.com/products");
