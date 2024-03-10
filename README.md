@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+ ![BackendTechs](https://skillicons.dev/icons?i=java,spring,hibernate,maven)  ![Front](https://skillicons.dev/icons?i=javascript,typescript,react,redux,bootstrap,css,html)   ![DBTechs](https://skillicons.dev/icons?i=postgresql)  ![DevOps](https://skillicons.dev/icons?i=git,postman,docker,aws) 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,3 +70,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Author
+<a href="https://github.com/aslibeyhan">
+    <img src="https://avatars.githubusercontent.com/u/77741685?v=4" alt="Asli Beyhan" width="100" height="100">
+</a>
+<br>
+<br>
+
+
+
+**Note: 
+This project is developed at a basic level for those who are just starting to learn Java & React Fullstack. If you want to contribute at an advanced level, please feel free to provide feedback in the Issues section.**
+
+### Thank you for taking the time to contribute to my project :)
